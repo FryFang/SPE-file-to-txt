@@ -1,2 +1,2 @@
 # SPE-file-to-txt
-A python template that reads all ASCII spe extension files in your working directory and convert them into txt files.
+A python template that reads ASCII spe extension files created by MAESTRO in your working directory and converts them into txt files.
